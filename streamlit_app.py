@@ -1,6 +1,5 @@
 import streamlit as st
-from moviepy.editor import
-VideoFileClip
+from moviepy.editor import VideoFileClip
 import yt_dlp
 import os
 st.title("youtube'dan gıf yapma aracı")
